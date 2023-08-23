@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Saikalyan
-- 👀 I’m interested in Software Development Engineering
-- 🌱 I’m currently learning Spring boot.
-- 💞️ I’m looking to collaborate on real-world projects to have a better understanding of the work.
-- 📫 How to reach me: mail me, Linkedin
+# 👋 SAI KALYAN
+** 👀 Upcoming DEVELOPER **
+
+I'm a upcoming **JAVA** DEVELOPER from india and always a learner. Usually I sit in front of **LAPTOP** learn and execute.
 
 <!---
 Saikalyan11/Saikalyan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
